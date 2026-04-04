@@ -1,36 +1,39 @@
-<h1 align="center">Hi 👋, I'm Harshit Shyamsukha</h1>
+<h1 align="center">Hi there, I'm Harshit Shyamsukha 👋</h1>
+
 <h3 align="center">Computer Science Student @ SRM IST | Open to SDE Internships</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/harshit-shyamsukha-512254258" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshit-shyamsukha" height="30" width="40" /></a>
+  <a href="https://www.linkedin.com/in/harshit-shyamsukha-512254258" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 </p>
 
 ---
 
 ### 👨‍💻 About Me
 
-- 🔭 I’m currently a **B.Tech CSE student at S.R.M. [cite_start]Institute of Science & Technology**[cite: 58, 68].
-- [cite_start]🌱 I’m currently focused on sharpening my skills in **software development and systems programming**[cite: 59].
-- [cite_start]💼 I’m actively looking for **SDE Internships**[cite: 54].
-- [cite_start]🏆 I hold certifications in **Data Structures and Algorithms, Real-Time OS, and I am a Red Hat Certified Specialist in Linux Diagnostics and Troubleshooting**[cite: 49, 65].
-- [cite_start]📫 How to reach me: **harshitshyamsukha@gmail.com** [cite: 40]
+- 🔭 I’m currently a **B.Tech CSE student at S.R.M. Institute of Science & Technology**.
+- 🌱 I’m focusing on sharpening my skills in **software development and systems programming**.
+- 💼 I’m actively looking for **SDE Internships**.
+- 🏆 I hold certifications in **Data Structures and Algorithms, Real-Time OS**, and I am a **Red Hat Certified Specialist in Linux Diagnostics and Troubleshooting**.
+- 📫 Reach me at: **harshitshyamsukha@gmail.com**
 
 ---
 
 ### 🛠️ Languages and Tools
 
 <p align="left">
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a>
-  <a href="https://en.wikipedia.org/wiki/C%2B%2B" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a>
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5" width="40" height="40"/> </a>
-  
-  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a>
-  <a href="https://www.redhat.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redhat/redhat-original.svg" alt="redhat" width="40" height="40"/> </a>
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" alt="docker" width="40" height="40"/> </a>
-  <a href="https://en.wikipedia.org/wiki/Shell_script" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bash/bash-original.svg" alt="bash" width="40" height="40"/> </a>
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++" />
+  <img src="https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
+  <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
+  <br>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/Red%20Hat-EE0000?style=for-the-badge&logo=redhat&logoColor=white" alt="Red Hat" />
+  <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+  <img src="https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash" />
 </p>
 
 ---
@@ -38,12 +41,8 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=Harshitshyamsukha&show_icons=true&theme=radium" alt="Harshit's GitHub Stats" />
-  </a>
-  <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitshyamsukha&layout=compact&theme=radium" alt="Top Languages" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Harshitshyamsukha&show_icons=true&theme=radical&hide_border=true" alt="Harshit's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitshyamsukha&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 
 ---
