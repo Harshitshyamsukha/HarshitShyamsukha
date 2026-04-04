@@ -41,8 +41,13 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harshitshyamsukha&show_icons=true&theme=radical&hide_border=true" alt="Harshit's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harshitshyamsukha&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harshitshyamsukha&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<br>
+
+<p align="center">
+  <img src="https://ghchart.rshah.org/219138/Harshitshyamsukha" alt="Harshit's Github Contribution Graph" />
 </p>
 
 ---
